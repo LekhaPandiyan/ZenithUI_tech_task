@@ -1,0 +1,17 @@
+{
+  "name": "sample-program",
+  "version": "1.0.0",
+  "description": "To run sample program ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Lekha",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
